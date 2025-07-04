@@ -97,6 +97,5 @@ If you’re learning Python or just want to create fun games – **you are welco
 
 ## 📬 Contact
 
-Want to help, ask something, or just say hi?  
 Feel free to open an [issue](https://github.com/your-username/Python_fun_little_games/issues) or leave a comment under a file!
 
