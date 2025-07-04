@@ -11,7 +11,7 @@ You wake up in a mysterious dungeon. The only way out? Make the right choices an
 Use your keyboard to pick numbered options during the story.
 
 ### 💡 What’s Fun About It:
-- Each weapon gives you a different backstory.
+- Each choice gives you a different backstory.
 - The dungeon is full of secrets – it's up to the player to explore.
 - It’s a story-based game, perfect for players who love adventures and imagination.
 
