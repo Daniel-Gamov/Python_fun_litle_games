@@ -74,7 +74,7 @@ The questions get harder as the numbers get bigger!
 
 ## 💡 About This Project
 
-This is an **open space for learning**, creativity and collaboration. The games are written by a 15-year-old Python learner, and the goal is to **build**, **share**, and **improve** the games together with others who love coding!
+This is an **open space for learning**, creativity and collaboration. The games are written by Python learner, and the goal is to **build**, **share**, and **improve** the games together with others who love coding!
 
 If you’re learning Python or just want to create fun games – **you are welcome here!**
 
@@ -94,4 +94,3 @@ If you’re learning Python or just want to create fun games – **you are welco
 Want to help, ask something, or just say hi?  
 Feel free to open an [issue](https://github.com/your-username/Python_fun_little_games/issues) or leave a comment under a file!
 
-Let’s code and have fun 🚀
