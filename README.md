@@ -47,7 +47,6 @@ If you make too many mistakes (3 wrong), you lose.
 > **👥 Want to help?**  
 > If you know how to use `time.time()` or want to add a timer feature, join in!  
 > Feel free to leave a comment or open an issue and share ideas or improvements.  
-> (⏰ *Reminder to myself: Tell ChatGPT the other ideas for this game!*)
 
 ---
 
