@@ -71,6 +71,8 @@ The questions get harder as the numbers get bigger!
 - Add a GUI with `tkinter`.
 - Let the user choose how many rounds.
 
+- [link to code](https://github.com/Daniel-Gamov/Python_fun_litle_games/blob/main/Python_games/QUIS.py)
+
 > **💬 Want to help improve it?**  
 > Suggest better structure using `functions`, maybe add a timer or levels, or create a nice UI. Let’s learn together!
 
