@@ -44,6 +44,8 @@ If you make too many mistakes (3 wrong), you lose.
 - Add levels (easy, medium, hard).
 - Save high scores.
 
+- [🔢 Multiplication Game](multiplication_game.py)
+
 > **👥 Want to help?**  
 > If you know how to use `time.time()` or want to add a timer feature, join in!  
 > Feel free to leave a comment or open an issue and share ideas or improvements.  
